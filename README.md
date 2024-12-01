@@ -1,3 +1,4 @@
+
 # Lets collaborate!
 Hi, I'm Shahar Razlan a motivated Junior Software Developer with a passion for tackling complex challenges through innovative, out-of-the-box solutions.
 My blend of analytical thinking and creativity enables me to approach problems strategically while driving continuous improvement.
