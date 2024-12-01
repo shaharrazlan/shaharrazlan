@@ -34,6 +34,9 @@ I am eager to bring my skills, energy, and dedication to every project I underta
 
 
 
-
 ### 🌐 Find Me Online
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/shahar-razlan/)) [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shaharrazlan@gmail.com) [![Website](https://img.shields.io/badge/-Personal%20Website-black?style=for-the-badge&logo=About.me&logoColor=white)]((https://www.linkedin.com/in/shahar-razlan/)](https://shaharrazlan.github.io/ShaharRazlanPortfolio.github.io/))
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahar-razlan/) 
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shaharrazlan@gmail.com) 
+[![Website](https://img.shields.io/badge/-Personal%20Website-black?style=for-the-badge&logo=About.me&logoColor=white)](https://shaharrazlan.github.io/ShaharRazlanPortfolio.github.io/)
+
