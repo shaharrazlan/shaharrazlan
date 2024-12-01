@@ -30,11 +30,9 @@ I am eager to bring my skills, energy, and dedication to every project I underta
 
 ### 📊 GitHub Stats
 
-![Shahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaharRazlan&show_icons=true&theme=radical)
+![Shahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaharRazlan&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharRazlan&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaharRazlan&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharRazlan&layout=compact&theme=radical&cache_seconds=1800)
 
 
 ### 🌐 Find Me Online
