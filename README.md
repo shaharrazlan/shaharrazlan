@@ -28,7 +28,9 @@ This format will make the section visually appealing with all the requested tool
 
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Shahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaharRazlan&show_icons=true&theme=radical)
+
 
 ### 🌐 Find Me Online
 - [LinkedIn](https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/shahar-razlan/))
