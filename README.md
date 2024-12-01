@@ -22,9 +22,10 @@ I am eager to bring my skills, energy, and dedication to every project I underta
 
 This format will make the section visually appealing with all the requested tools and frameworks added. Let me know if you'd like any further changes!
 ### 🌟 Notable Projects
-1. **[Project Name](link to repository)**: Brief description of what the project does.
-2. **[Project Name](link to repository)**: Brief description of what the project does.
-3. **[Project Name](link to repository)**: Brief description of what the project does.
+1. **[StudyPro App](https://github.com/shaharrazlan/StudyProApp)**: A powerful and intuitive student assistant app designed to streamline academic life. With features like course management, task tracking, schedule organization, and a grade calculator, StudyPro helps students stay on top of their lessons and assignments. Built with React Native and styled for motivation, it’s the ultimate tool for boosting productivity and achieving academic success.
+2. **[Social Media App](https://github.com/shaharrazlan/Social-Media-App)**: a full-stack social media platform designed for seamless interaction and connectivity. Built with cutting-edge technologies and a modular architecture, this app empowers users to share, connect, and engage effortlessly.
+3. **[BlockBreaker](https://github.com/shaharrazlan/BlockBreaker)**: A modern take on the classic brick-breaking game! Built with Java and Ant, it features interactive gameplay, multiple levels, and score tracking. Improve reflexes, relive arcade nostalgia, and smash your way to victory!
+
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
